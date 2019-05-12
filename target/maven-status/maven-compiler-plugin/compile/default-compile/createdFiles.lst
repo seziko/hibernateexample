@@ -1,0 +1,5 @@
+entitiy\Customer.class
+Main.class
+util\HibernateUtil.class
+entitiy\BaseEntity.class
+entitiy\CustomerOrder.class
